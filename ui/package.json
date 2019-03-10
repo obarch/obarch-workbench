@@ -1,0 +1,16 @@
+{
+  "name": "ui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "vue build src/App.vue",
+    "serve": "vue serve src/App.vue"
+  },
+  "devDependencies": {
+    "@vue/cli": "^3.5.0",
+    "@vue/cli-plugin-typescript": "^3.5.0",
+    "@vue/cli-plugin-unit-jest": "^3.5.0",
+    "@vue/cli-service": "^3.5.0",
+    "@vue/cli-service-global": "^3.5.0"
+  }
+}
